@@ -2,7 +2,7 @@ import React from 'react';
 import './Sidebar.css';
 import Button from "@material-ui/core/Button";
 import TwitterIcon from '@material-ui/icons/Twitter';
-import SidebarOption from "./SidebarOption";
+import SidebarOption from "../SidebarOption/SidebarOption";
 import HomeIcon from '@material-ui/icons/Home';
 import SearchIcon from '@material-ui/icons/Search';
 import NotificationsNoneIcon from '@material-ui/icons/NotificationsNone';
